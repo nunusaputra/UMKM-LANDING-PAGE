@@ -509,7 +509,7 @@ header .fa-bars {
 .btn-contact {
     display: flex;
     border-radius: 1.2rem;
-    width: 70%;
+    width: 60%;
     border: 1px solid #000;
     background: #fff;
     color: #000;
@@ -517,6 +517,7 @@ header .fa-bars {
     cursor: pointer;
     font-size: 1.5rem;
     margin-top: 1.9rem;
+    margin-left: 1.8rem;
     align-items: center;
     justify-content: center;
 }
